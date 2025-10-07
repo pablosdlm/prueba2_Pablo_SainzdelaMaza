@@ -29,6 +29,7 @@ Usamos `git clone https://USERNAME:TOKEN@github.com/USERNAME/REPO.git` para clon
 
 ## Añadir y modificar nuevos archivos para el repositorio remoto
 Previamente, creamos el nuevo archivo y modificamos uno de los que ya existen y con `git add` y  `git commit`, agregamos los cambios y los confirmamos.
+
 ![Nuevos archivos](capturas/Captura6.png)
 
 ### Resultado en Github
